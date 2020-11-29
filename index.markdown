@@ -6,7 +6,7 @@ layout: home
 ---
 [email](connor@geiman.co) / [linkedin](linkedin.com/in/geiman)
 
-SELECTED PROJECTS
+<br/>SELECTED PROJECTS
 - line uno
 - line dos
 - line tres
