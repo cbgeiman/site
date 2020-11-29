@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-- line 1
-- line 2
-- line 3
 ---
+- line uno
+- line dos
+- line tres
