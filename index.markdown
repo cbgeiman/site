@@ -4,6 +4,11 @@
 
 layout: home
 ---
+[email](connor@geiman.co) / [linkedin](linkedin.com/in/geiman)
+
+about me...
+
+SELECTED PROJECTS
 - line uno
 - line dos
 - line tres
